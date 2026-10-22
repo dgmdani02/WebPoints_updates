@@ -19,3 +19,10 @@ canales de Apple cuando esté disponible. Expo Go se utiliza durante el desarrol
 
 Los datos proceden de sus respectivas fuentes; no se concede una licencia sobre
 contenido de terceros. No se publican contraseñas ni sesiones del scraper.
+
+## Primera versión de prueba
+
+[Descargar WebPoints 0.1.0 para Android](https://github.com/dgmdani02/WebPoints_updates/releases/download/app-v0.1.0/webpoints-v0.1.0.apk).
+
+APK independiente de Expo Go. Pendiente de validación en dispositivos reales.
+La publicación actualizada de Android se describe en [`app/android.json`](app/android.json).
